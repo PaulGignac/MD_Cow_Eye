@@ -1,7 +1,16 @@
 # MD_Cow_Eye
 MorphoDepot repository for 3D rendering a cow eye
 
-Cow eye, sourced from Carolina Biologicla Supply, was fixed and stored in Carolina "Perfect" Solution. It was stained with buffered lugol's iodine (2.5% for 14 days) and subsequently CT scanned at the University of Arizona Nanofabrication Laboratory on a Shimadzu InspeXio micro-CT scanner at 39 microns (isometric voxels). The scan metadata files (text file, image file) are included with the repository. Briefly, the scan parameters were 150 kV, 120 micro-Amps, 2400 rotation steps with 3-times image averaging, and no filtration. 
+Cow eye, fixed and stained, was CT scanned at 39 microns (isometric voxels) using a Shimadzu InspeXio micro-CT scanner. 
 
-Repository Files:
-• 
+The sample was sourced from Carolina Biologicla Supply, where it was fixed and stored in Carolina "Perfect" Solution. It was stained by Paul Gignac with buffered lugol's iodine (2.5% for 14 days).
+
+Micro-CT scanning took place at the University of Arizona Nanofabrication Laboratory by Paul Gignac. Parameters included 150 kV, 120 micro-Amps, 2400 rotation steps, and 3-times image averaging. No filtration was used. 
+
+Shimadzu metadata files (text file, image file) are included with the repository. 
+
+The volume file (.nrrd) is included with the repository.
+
+A color table file (.ctbl) is included with the repository.
+
+A text file describing the structures listed in the color table is included with the repository.
