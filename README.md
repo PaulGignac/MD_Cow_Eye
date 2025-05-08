@@ -7,7 +7,7 @@ The sample was sourced from Carolina Biologicla Supply, where it was fixed and s
 
 Micro-CT scanning took place at the University of Arizona Nanofabrication Laboratory by Paul Gignac. Parameters included 150 kV, 120 micro-Amps, 2400 rotation steps, and 3-times image averaging. No filtration was used. 
 
-Shimadzu metadata files (text file, image file) are included with the repository. 
+Shimadzu metadata files (.txt, .jpg) are included with the repository. 
 
 The volume file (.nrrd) is included with the repository.
 
